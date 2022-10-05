@@ -1,4 +1,4 @@
-#!/bin/python3
+
 """Prise connectée."""
 class SmartPlug:
     """Prise intelligente : connecte les appareils."""
